@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94764497079', 'sandaru', true],
-  ['6281255369012', 'Ash', true], 
+  ['94789060937', 'sandaru', true],
+  ['94701348196', 'Ash', true], 
   [''] 
 ] //Number of owners
 
@@ -47,16 +47,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'SANDARU-YT'
+global.botname = '𝑈𝐷𝛪𝑇𝛨 𝛫𝛯𝑆𝛨𝛥𝑊𝛥'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
+global.packname = '𝑈𝛫 𝛭𝛩𝐷𝑆' 
+global.author = '@Udith' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/udith04\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
+global.fgyt = 'https://youtube.com/@UdithKeshawa'
+global.fgpyp = 'https://youtube.com/@UdithKeshawa'
+global.fglog = 'https://i.imgur.com/cpTxBer.jpeg' 
 global.dbase = 'mongodb://mongo:q4bHb1TK9mOyuKFmp1oY@containers-us-west-56.railway.app:6244' //ADD YOUR MONGODB BY CHANGIMG IT
 
 global.wait = '*LOADING PLEASE WAIT....*'
